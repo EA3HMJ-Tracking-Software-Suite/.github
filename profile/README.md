@@ -22,10 +22,10 @@ The system is made up of blocks that are interlinked with each other:
   - [Astronomyserver](https://github.com/EA3HMJ-Tracking-Software-Suit/Astronomyserver)
 - Control application in Windows OS
   - [DriverDish.App](https://github.com/EA3HMJ-Tracking-Software-Suit/DriverDish)
-  - SN server
+  - [SN server](https://github.com/EA3HMJ-Tracking-Software-Suit/SNserver)
 - Antenna Controller
   - [Controller Dish](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish)
-  - Mini weather station
+  - [Mini weather station](https://github.com/EA3HMJ-Tracking-Software-Suit/MiniWx)
   - Remote control
   - [Interface encoder paralell to RS485](https://github.com/EA3HMJ-Tracking-Software-Suit/Paralell-Interface)
   - [Interface encoder USdigital A2 to RS485](https://github.com/EA3HMJ-Tracking-Software-Suit/A2-Interface)

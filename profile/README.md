@@ -26,7 +26,7 @@ The system is made up of blocks that are interlinked with each other:
 - Antenna Controller
   - [Controller Dish](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish)
   - [Mini weather station](https://github.com/EA3HMJ-Tracking-Software-Suit/MiniWx)
-  - Remote control
+  - [Remote control](https://github.com/EA3HMJ-Tracking-Software-Suit/RemoteControl)
   - [Interface encoder paralell to RS485](https://github.com/EA3HMJ-Tracking-Software-Suit/Paralell-Interface)
   - [Interface encoder USdigital A2 to RS485](https://github.com/EA3HMJ-Tracking-Software-Suit/A2-Interface)
 - Utilities

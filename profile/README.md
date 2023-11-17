@@ -24,6 +24,10 @@ The system is made up of three blocks that work together:
   - [DriverDish.App](https://github.com/ea3hmj/HMJTS/tree/main/DriverDish)
 - Antenna Controller
   - [Controller Dish](https://github.com/ea3hmj/HMJTS/tree/main/controller%20dish/main%20board)
+  - Mini weather station
+  - Remote control
+  - Interface encoder paralell to RS485
+  - Interface encoder USdigital A2 to RS485
 - Utilities
   - [AstroserverHelper.App](https://github.com/ea3hmj/HMJTS/tree/main/ephemerides/AstroserverHelper.App)
   - Heatmap.App

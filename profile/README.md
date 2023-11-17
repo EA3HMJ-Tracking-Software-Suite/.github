@@ -33,6 +33,13 @@ The system is made up of blocks that are interlinked with each other:
   - [AstroserverHelper](https://github.com/EA3HMJ-Tracking-Software-Suit/AstroserverHelper)
   - [Heatmap](https://github.com/EA3HMJ-Tracking-Software-Suit/Heatmap)
 
+## Starting
+The following document explains how to start the system:
+
+[Star up tracking system ENG](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ENG.pdf)
+[Star up tracking system ESP](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ESP.pdf)
+
+
 ## Project support
 I dedicate a substantial portion of my free time to the development of the “EA3HMJ Tracking Software Suite” project, and I take great satisfaction in its progress. I believe it serves as a relevant contribution to the Ham Radio and Amateur DSN, communities offering an opportunity to establish a state-of the-art high-precision tracking system at an affordable cost.
 

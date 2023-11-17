@@ -17,21 +17,21 @@ The integration of dedicated hardware and software in such a system provides sev
 
 The system is made up of blocks that are interlinked with each other:
 - Ephemerides servers
-  - [Astroserver](https://github.com/ea3hmj/HMJTS/tree/main/ephemerides/astroserver)
-  - [JPLastroserver](https://github.com/ea3hmj/HMJTS/tree/main/ephemerides/JPLastroserver)
-  - [Astronomyserver](https://github.com/EA3HMJ-Tracking-Software-Suit/Astronomyserver/tree/main)
+  - [Astroserver](https://github.com/EA3HMJ-Tracking-Software-Suit/Astroserver)
+  - [JPLastroserver](https://github.com/EA3HMJ-Tracking-Software-Suit/JPLastroserver)
+  - [Astronomyserver](https://github.com/EA3HMJ-Tracking-Software-Suit/Astronomyserver)
 - Control application in Windows OS
-  - [DriverDish.App](https://github.com/ea3hmj/HMJTS/tree/main/DriverDish)
+  - [DriverDish.App](https://github.com/EA3HMJ-Tracking-Software-Suit/DriverDish)
   - SN server
 - Antenna Controller
-  - [Controller Dish](https://github.com/ea3hmj/HMJTS/tree/main/controller%20dish/main%20board)
+  - [Controller Dish](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish)
   - Mini weather station
   - Remote control
-  - Interface encoder paralell to RS485
+  - [Interface encoder paralell to RS485](https://github.com/EA3HMJ-Tracking-Software-Suit/Paralell-Interface)
   - [Interface encoder USdigital A2 to RS485](https://github.com/EA3HMJ-Tracking-Software-Suit/A2-Interface)
 - Utilities
-  - [AstroserverHelper.App](https://github.com/ea3hmj/HMJTS/tree/main/ephemerides/AstroserverHelper.App)
-  - Heatmap.App
+  - [AstroserverHelper](https://github.com/EA3HMJ-Tracking-Software-Suit/AstroserverHelper)
+  - [Heatmap](https://github.com/EA3HMJ-Tracking-Software-Suit/Heatmap)
 
 ## Project support
 I dedicate a substantial portion of my free time to the development of the “EA3HMJ Tracking Software Suite” project, and I take great satisfaction in its progress. I believe it serves as a relevant contribution to the Ham Radio and Amateur DSN, communities offering an opportunity to establish a state-of the-art high-precision tracking system at an affordable cost.

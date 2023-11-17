@@ -19,7 +19,7 @@ The system is made up of three blocks that work together:
 - Ephemerides servers
   - [Astroserver](https://github.com/ea3hmj/HMJTS/tree/main/ephemerides/astroserver)
   - [JPLastroserver](https://github.com/ea3hmj/HMJTS/tree/main/ephemerides/JPLastroserver)
-  - [Astronomyserver](https://github.com/ea3hmj/HMJTS/tree/main/ephemerides/astronmyserver)
+  - [Astronomyserver](https://github.com/EA3HMJ-Tracking-Software-Suit/Astronomyserver/tree/main)
 - Control application in Windows OS
   - [DriverDish.App](https://github.com/ea3hmj/HMJTS/tree/main/DriverDish)
 - Antenna Controller

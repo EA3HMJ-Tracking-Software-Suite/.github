@@ -28,7 +28,7 @@ The system is made up of blocks that are interlinked with each other:
   - Mini weather station
   - Remote control
   - Interface encoder paralell to RS485
-  - Interface encoder USdigital A2 to RS485
+  - [Interface encoder USdigital A2 to RS485](https://github.com/EA3HMJ-Tracking-Software-Suit/A2-Interface)
 - Utilities
   - [AstroserverHelper.App](https://github.com/ea3hmj/HMJTS/tree/main/ephemerides/AstroserverHelper.App)
   - Heatmap.App

@@ -30,7 +30,6 @@ The system is made up of blocks that are interlinked with each other:
   - [Interface encoder paralell to RS485](https://github.com/EA3HMJ-Tracking-Software-Suit/Paralell-Interface)
   - [Interface encoder USdigital A2 to RS485](https://github.com/EA3HMJ-Tracking-Software-Suit/A2-Interface)
 - Utilities
-  - [AstroserverHelper](https://github.com/EA3HMJ-Tracking-Software-Suit/AstroserverHelper)
   - [Heatmap](https://github.com/EA3HMJ-Tracking-Software-Suit/Heatmap)
 
 ## Starting

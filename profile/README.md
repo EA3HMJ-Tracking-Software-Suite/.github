@@ -21,7 +21,7 @@ The system is made up of blocks that are interlinked with each other:
   - [JPLastroserver](https://github.com/EA3HMJ-Tracking-Software-Suit/JPLastroserver)
   - [Astronomyserver](https://github.com/EA3HMJ-Tracking-Software-Suit/Astronomyserver)
 - Control application in Windows OS
-  - [DriverDish.App](https://github.com/EA3HMJ-Tracking-Software-Suit/DriverDish)
+  - [DriverDish](https://github.com/EA3HMJ-Tracking-Software-Suit/DriverDish)
   - [SN server](https://github.com/EA3HMJ-Tracking-Software-Suit/SNserver)
 - Antenna Controller
   - [Controller Dish](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish)

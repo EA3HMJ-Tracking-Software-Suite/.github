@@ -1,4 +1,5 @@
 # Welcome to EA3HMJ Tracking Software Suite
+![ECOSISTEMA_v4](https://github.com/EA3HMJ-Tracking-Software-Suite/.github/assets/2368602/c14ddea2-012e-4957-8e9b-9935d09bc365)
 ## Description
 This is an antenna tracking system that integrates dedicated hardware and software designed for amateur use in Earth–Moon–Earth communication (EME), radioastronomy, amateur Deep Sky Network (DSN) and other Space Communications applications where accurate and high precision tracking are required. 
 Proper use of the system requires electronics knowledge and some software skills. Thus, it is only recommended to users with previous experience with antenna tracking systems.

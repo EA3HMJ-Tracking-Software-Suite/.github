@@ -36,8 +36,8 @@ The system is made up of blocks that are interlinked with each other:
 ## Starting
 The following document explains how to start the system:
 
-- [Star up tracking system ENG](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ENG.pdf)
-- [Star up tracking system ESP](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ESP.pdf)
+- [Getting Started Guide ENG](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ENG.pdf)
+- [Getting Started Guide ESP](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ESP.pdf)
 
 
 ## Project support

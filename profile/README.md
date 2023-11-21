@@ -21,7 +21,7 @@ The system is made up of blocks that are interlinked with each other:
   - [Astroserver](https://github.com/EA3HMJ-Tracking-Software-Suit/Astroserver)
   - [JPLastroserver](https://github.com/EA3HMJ-Tracking-Software-Suit/JPLastroserver)
   - [Astronomyserver](https://github.com/EA3HMJ-Tracking-Software-Suit/Astronomyserver)
-- Control application in Windows OS
+- Control applications running on Windows OS
   - [DriverDish](https://github.com/EA3HMJ-Tracking-Software-Suit/DriverDish)
   - [SN server](https://github.com/EA3HMJ-Tracking-Software-Suit/SNserver)
 - Antenna Controller
@@ -33,14 +33,14 @@ The system is made up of blocks that are interlinked with each other:
 - Utilities
   - [Heatmap](https://github.com/EA3HMJ-Tracking-Software-Suit/Heatmap)
 
-## Starting
-The following document explains how to start the system:
+## Getting Started
+The following documents will help to get started with the system:
 
 - [Getting Started Guide ENG](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ENG.pdf)
-- [Guia ESP](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ESP.pdf)
+- [Guia de Introdución ESP](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ESP.pdf)
 
 
-## Project support
+## Project Support
 I dedicate a substantial portion of my free time to the development of the “EA3HMJ Tracking Software Suite” project, and I take great satisfaction in its progress. I believe it serves as a relevant contribution to the Ham Radio and Amateur DSN, communities offering an opportunity to establish a state-of the-art high-precision tracking system at an affordable cost.
 
 However, beyond the investments of time and effort, there are tangible expenses involved, such as purchasing components, PCB fabrication, acquiring tools, and obtaining new sensors. These ancillary expenditures are crucial to ensuring the creation of a robust system at an affordable price point.

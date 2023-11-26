@@ -38,6 +38,7 @@ The following documents will help to get started with the system:
 
 - [Getting Started Guide ENG](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ENG.pdf)
 - [Guia de Introducción ESP](https://github.com/EA3HMJ-Tracking-Software-Suit/.github/blob/main/Star%20up%20tracking%20system%20v1%20ESP.pdf)
+- [Guia de Introducción v2 ea4le ESP](https://github.com/EA3HMJ-Tracking-Software-Suite/.github/blob/main/GettingStartedGuide%20v2%20ea4le%20ESP.pdf)
 
 
 ## Project Support
